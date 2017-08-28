@@ -56,7 +56,7 @@
                                     <constraint firstAttribute="height" constant="1" id="aVs-mo-edI"/>
                                 </constraints>
                             </view>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="FULL NAME" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ESO-2W-eE1">
+                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="FULLNAME" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="ESO-2W-eE1">
                                 <rect key="frame" x="36" y="194" width="303" height="21"/>
                                 <constraints>
                                     <constraint firstAttribute="width" constant="303" id="Yfn-nx-0nS"/>
